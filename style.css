@@ -1,0 +1,172 @@
+html, body{
+	background: #010E14;
+	font-family: Arial;
+	font-size: 16px;
+	
+}
+.clear {clear: both;}
+#randomname{
+	width: 90%;
+	max-width: 1000px;
+	background: #81A4CD;
+	margin: 30px auto;
+}
+.mainDetails{
+	float: auto;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	border-bottom: 1px solid #04030f;
+}
+.mainheader{
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	float: auto;
+	
+	border-bottom: 1px solid #04030f;
+}
+.bottomSection{
+	margin-top: auto;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: auto;
+	width: 90%;
+	max-width: 1000px;
+	
+	border: 1px solid #04030f;
+}
+.spacer{
+	padding: 5;
+	
+}
+.subheader{
+	padding-top: 10px;
+}
+#name{
+	float: auto;
+}
+#contactDetailsInfo{
+	float: right;
+	width: 60%;
+}
+
+#mainContent{
+	width: 90%;
+	max-width: 1000px;
+	margin: 10px auto;
+	border: 1px solid #04030f;
+}
+#mainContent embed{
+	width: 100%;
+}
+.LeftSideHeader{
+	float: left;
+	width: 25%;
+}
+.LeftSideHeader h4{
+	padding-left: 50px;
+	margin: 0px;
+	display: inline-block;
+}
+.LeftSideHeader p{
+	padding-left: 60px;
+	margin: 0px;
+	display: inline-block;
+}
+.LeftSideid{
+	float: left;
+	width: 20%;
+	padding: auto;
+	margin: auto;
+}
+.LeftSideHeader img{
+	padding: auto;
+	width:80%;
+	
+}
+.mainContentsRight{
+	float: right;
+	width: 75%;
+}
+.mainContentsRight1{
+	float: right;
+	width: 75%;
+	
+}
+.mainImg{
+	width: 90%;
+	border-bottom: 1px solid #04030f;
+}
+.articleGrouping{
+	border: 1px solid #04030f;
+}
+.Learning{
+	width: 90%;
+}
+.Project{
+	width: 90%;
+	border-bottom: 1px solid #04030f;
+}
+.Project1{
+	width: 90%;
+}
+
+ul{
+	font-family: Arial;
+	color: #103456;
+}
+h1{
+	font-family: Arial;
+	font-size: 3em;
+	border-bottom: 1px solid #04030f;
+	color: #04030f;
+	margin: 10px auto;
+}
+h2{
+	font-family: Arial;
+	font-size: 2em;
+	border-bottom: 1px solid #04030f;
+	color: #04030f;
+	display: inline-block;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+}
+h3{
+	font-family: Arial;
+	font-size: 2em;
+	color: #04030f;
+	border-bottom: 1px solid #04030f;
+}
+h4{
+	font-family: Arial;
+	color: #04030f;
+}
+h4a{
+	font-family: Arial;
+	color: #04030f;
+	padding: 0px;
+	margin: 0px;
+}
+h4b{
+	font-family: Arial;
+	color: #04030f;
+	padding-left: 20px;
+	margin: 0px;
+}
+p{
+	font-family: Arial;
+	color: #F5FBEF;
+}
+
+h5{
+	font-family: Arial;
+	font-size: 3em;
+	color: #04030f;
+	border-bottom: 1px solid #04030f;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	display: inline-block;
+}
+.mobile-button {
+	width: 80%;
+	float: left;
+}
